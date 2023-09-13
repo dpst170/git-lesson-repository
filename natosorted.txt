@@ -1,0 +1,8 @@
+alfa
+beta
+delta
+gamma
+oscar
+romeo
+uniform
+zulu
